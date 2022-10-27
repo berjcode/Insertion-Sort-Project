@@ -16,8 +16,8 @@ Insertion Sort Projesi
  * O(n^2)
 
 ### Big-O gösterimini yazınız?
- *(n.(n+1))/2
- *(n^2+n)/2
+ * (n.(n+1))/2
+ * (n^2+n)/2
  * O(n^2)
 #### Time Complexity:
 * Average case: Aradığımız sayının ortada olması
